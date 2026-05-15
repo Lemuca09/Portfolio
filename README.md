@@ -96,9 +96,10 @@ Dashboards e pipelines para análise de dados utilizando SQL, Power BI e Python.
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemuca09&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lemuca09&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemuca09&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemuca09&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
