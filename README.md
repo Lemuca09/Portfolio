@@ -91,6 +91,32 @@ Tenho foco principal em:
 
 # 📌 Projetos em destaque
 
+## 🆕 Projetos recentes no GitHub
+
+## 🔹 [project_rag](https://github.com/Lemuca09/project_rag)
+Pipeline de RAG interno com ingestão para Markdown, chunking de tabelas por período, busca híbrida (TF-IDF + BM25 com RRF), reescrita de query, rerank/MMR, quality gate e agente extrativo. Responde apenas com frases do corpus e recusa quando a evidência não fecha. Pronto para MCP.
+`Python` `RAG` `Hybrid Search` `Agentes`
+
+## 🔹 [Actions-Prices-Predictions-LSTM](https://github.com/Lemuca09/Actions-Prices-Predictions-LSTM)
+Trabalho da Fatec: rede neural LSTM para previsão do valor de ações, usando dados financeiros do Yahoo Finance.
+`Python` `LSTM` `Jupyter Notebook`
+
+## 🔹 [Cossine-Similiarity-Tool](https://github.com/Lemuca09/Cossine-Similiarity-Tool)
+Aplicação desktop com interface gráfica que recomenda as 5 músicas mais parecidas com um texto de entrada, usando TF-IDF e similaridade de cosseno.
+`Python` `scikit-learn` `NLTK` `CustomTkinter`
+
+## 🔹 [School-Accessibility-by-Neighborhood-PCA](https://github.com/Lemuca09/School-Accessibility-by-Neighborhood-PCA)
+Análise de componentes principais (PCA) sobre dados de acessibilidade escolar por bairro, com limpeza dos dados, padronização e visualização dos componentes.
+`Python` `pandas` `scikit-learn` `seaborn`
+
+## 🔹 [Image-Compress-K-Mean](https://github.com/Lemuca09/Image-Compress-K-Mean)
+Compressão de imagens por quantização de cores com K-Means.
+`Python` `K-Means`
+
+---
+
+## 🗂️ Outros projetos
+
 ## 🔹 Investor Compass
 Plataforma voltada para sourcing, enriquecimento e gestão de investidores utilizando automações, IA e Airtable.
 
@@ -108,8 +134,10 @@ Dashboards e pipelines para análise de dados utilizando SQL, Power BI e Python.
 
 # 🌎 Contato
 
+[![GitHub](https://img.shields.io/badge/GitHub-Lemuca09-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lemuca09)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloreisjesus)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo_reis.jesus@hotmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo_reis.jesus@hotmail.com)
 
 ---
